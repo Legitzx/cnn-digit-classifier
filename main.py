@@ -107,7 +107,7 @@ def main():
 
         # learning rate decay
         print("Learning rate: {}".format(learning_rate))
-        learning_rate_decay = 0.0001
+        learning_rate_decay = 0.001
         learning_rate = starting_learning_rate * (1.0 / (1 + learning_rate_decay * epoch))
 
         train_data_slider_start += 5000

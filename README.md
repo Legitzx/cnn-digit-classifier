@@ -2,7 +2,7 @@
 
 ### Simple convolutional neural network built using just Python and NumPy that classifies digits using the MNIST dataset. 
 
-### Best accuracy on test set to date: 92.8%
+### Best accuracy on test set to date: 93.9% (training time is the constraint)
 
 ### Convolutional Neural Network Architecture:
 
