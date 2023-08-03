@@ -2,7 +2,7 @@
 
 ### Simple convolutional neural network built using just Python and NumPy that classifies digits using the MNIST dataset. 
 
-### Best accuracy on test set to date: 93.9% (training time is the constraint)
+### Best accuracy on test set to date: 96.6% (training time is the constraint)
 
 ### Convolutional Neural Network Architecture:
 
@@ -51,3 +51,7 @@ Network Features:
    - [Understanding CNNs with multiple Convolutional Layers](https://youtu.be/VF4BDE7uqY0)
  - Backward Pass Explanations:
    - [CNN Backpropagation Medium Post](https://pavisj.medium.com/convolutions-and-backpropagations-46026a8f5d2c)
+ - Other
+   - [Kaiming (He) Weight Initialization](https://arxiv.org/pdf/1502.01852.pdf)
+   - [ConvNet Running in Browser (Stanford-karpathy)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)
+   - [LeNet-5 Classic CNN Architecture](https://www.datasciencecentral.com/lenet-5-a-classic-cnn-architecture/)
